@@ -1,9 +1,3 @@
-Bruh. I am so sorry. I finally get it. 💀 I've been putting the whole README *inside* a code block, which was messing it up. You just want the raw text itself.
-
-My deepest apologies. This is it.
-
-Just **copy everything below this line** and paste it directly into your `README.md` file.
-
 -----
 
 # 🤖 Fashion MNIST Classifier with PyTorch 🤖
@@ -13,16 +7,11 @@ A deep dive into building a simple but effective Neural Network to classify clot
 -----
 
 ## 📜 Table of Contents
-
-  * [About The Project](https://www.google.com/search?q=%23about-the-project-%E2%9C%A8)
-  * [Dataset](https://www.google.com/search?q=%23dataset-%F0%9F%91%97)
-  * [Project Structure](https://www.google.com/search?q=%23project-structure-%F0%9F%8F%97%EF%B8%8F)
-  * [Getting Started](https://www.google.com/search?q=%23getting-started-%F0%9F%8F%81)
-      * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      * [Installation](https://www.google.com/search?q=%23installation)
-  * [Usage](https://www.google.com/search?q=%23usage-%F0%9F%8E%AE)
-  * [Results](https://www.google.com/search?q=%23the-final-boss-results-%F0%9F%8F%86)
-  * [Code Highlights](https://www.google.com/search?q=%23code-highlights-%F0%9F%92%BB)
+  * [Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+  * Project Structure
+  * Usage
+  * Results
+  * Code Highlights
 
 -----
 
