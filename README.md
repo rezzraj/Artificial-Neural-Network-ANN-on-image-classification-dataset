@@ -1,15 +1,14 @@
 -----
 
-# 🤖 Fashion MNIST Classifier with PyTorch 🤖
+# Fashion MNIST Classifier with PyTorch 🤖
 
-A deep dive into building a simple but effective Neural Network to classify clothing items from the Fashion MNIST dataset. No cap, this project is a solid introduction to the fundamentals of PyTorch, from data loading to model training and evaluation. 🚀
+A deep dive into building a simple but effective Neural Network to classify clothing items from the Fashion MNIST dataset. This project is a solid introduction to the fundamentals of PyTorch, from data loading to model training and evaluation. 
 
 -----
 
 ## 📜 Table of Contents
   * [Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
   * Project Structure
-  * Usage
   * Results
   * Code Highlights
 
@@ -93,45 +92,7 @@ The script is structured sequentially to make it easy to follow:
 
 -----
 
-## Getting Started 🏁
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-You'll need Python 3.x and the following libraries. You can install them using pip.
-
-```sh
-pip install torch pandas scikit-learn matplotlib seaborn
-```
-
-### Installation
-
-1.  Clone the repo (or just download the script lmao 💀):
-    ```sh
-    git clone https://github.com/your_username/your_repository_name.git
-    ```
-2.  Navigate to the project directory:
-    ```sh
-    cd your_repository_name
-    ```
-3.  Make sure you have the `fmnist_small.csv` file in the same directory.
-
------
-
-## Usage 🎮
-
-Just run the Python script. It's that simple. Get ready for some epic terminal output.
-
-```sh
-python your_script_name.py
-```
-
-The script will print the average loss for each epoch during training and the final test accuracy at the end. It will also display a plot of the loss curve.
-
------
-
-## The Final Boss: Results 🏆
+## Results 🏆
 
 After 100 epochs of intense training, the model achieves a respectable accuracy on the test set.
 
